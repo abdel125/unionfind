@@ -10,5 +10,5 @@ Install
 =======
 
 ```shell
-$ go get github.com/pietv/unionfind
+$ go get github.com/abdel125/unionfind
 ```
